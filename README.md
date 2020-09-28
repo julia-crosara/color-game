@@ -1,6 +1,6 @@
 # Color Game
 
-Project for Colt Steele's Web Developer Bootcamp
+Project for Colt Steele's Web Dev course, featuring vanilla JavaScript and DOM manipulation
 
 # How to play 
 
